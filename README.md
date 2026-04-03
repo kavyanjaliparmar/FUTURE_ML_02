@@ -43,38 +43,6 @@ It combines NLP techniques with a Logistic Regression model and is deployed usin
 
 ---
 
-## 📁 Project Structure
-
-FUTURE_ML_02/
-│
-├── app.py
-├── templates/
-│   └── index.html
-├── model.pkl
-├── vectorizer.pkl
-├── encoder.pkl
-├── .gitignore
-└── README.md
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-git clone https://github.com/your-username/FUTURE_ML_02.git
-cd FUTURE_ML_02
-
-2. Install dependencies:
-pip install flask scikit-learn nltk
-
-3. Run the app:
-python app.py
-
-4. Open in browser:
-http://127.0.0.1:5001
-
----
-
 ## 💡 Features
 
 - Real-time ticket classification
